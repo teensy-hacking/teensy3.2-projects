@@ -18,4 +18,8 @@
     Real Time Clock (with user-added 32.768 crystal and battery)
     16 DMA channels (separate from USB)
     Touch Sensor Inputs
-     1.4 x 0.7" (~35 x 18 mm)
+    1.4 x 0.7" (~35 x 18 mm)
+    
+# Source
+    Url address : https://www.pjrc.com/store/teensy32.html
+                  https://www.sparkfun.com/products/13736
