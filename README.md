@@ -1,9 +1,12 @@
-# Teensy 3.2 Project
+## Teensy 3.2 Project
+
+This github repository contains samples made with the teensy 3.2 model.
+
 
     Model : Teensy 3.2
     Chip Number : MK20DX256
     
-    # Features
+    # Features :
     
     32 bit ARM Cortex-M4 72 MHz CPU (M4 = DSP extensions)
     256K Flash Memory, 64K RAM, 2K EEPROM
@@ -20,10 +23,10 @@
     Touch Sensor Inputs
     1.4 x 0.7" (~35 x 18 mm)
 
-# View
+## View
 ![teensy32](https://user-images.githubusercontent.com/15425071/31785943-7b38553a-b50f-11e7-9c69-9a5339759086.jpg)
 ![teensy32b](https://user-images.githubusercontent.com/15425071/31785954-80c5535e-b50f-11e7-8c33-fb25e97f1829.jpg)
 
-# Source
+## Source
     Url address : https://www.pjrc.com/store/teensy32.html
                   https://www.sparkfun.com/products/13736
