@@ -21,8 +21,8 @@
     1.4 x 0.7" (~35 x 18 mm)
 
 # View
-    ![teensy32](https://user-images.githubusercontent.com/15425071/31785943-7b38553a-b50f-11e7-9c69-9a5339759086.jpg)
-    ![teensy32b](https://user-images.githubusercontent.com/15425071/31785954-80c5535e-b50f-11e7-8c33-fb25e97f1829.jpg)
+![teensy32](https://user-images.githubusercontent.com/15425071/31785943-7b38553a-b50f-11e7-9c69-9a5339759086.jpg)
+![teensy32b](https://user-images.githubusercontent.com/15425071/31785954-80c5535e-b50f-11e7-8c33-fb25e97f1829.jpg)
 
 # Source
     Url address : https://www.pjrc.com/store/teensy32.html
