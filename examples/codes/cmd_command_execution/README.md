@@ -3,6 +3,11 @@
     The exploit code in the folder allows you to run commands via cmd.
 
 ### Tested Operating Systems :
+
 * Windows
     * Windows 10 Pro
     * Windows 10 Home
+    * Windows 8
+    * Windows 7
+    * Windows Vista
+    * Windows XP
